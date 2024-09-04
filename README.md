@@ -31,3 +31,7 @@ The program consists of two classes: `WordList` and `Wordle`.
 
 - **WordList**: Reads words from `words.txt` and provides a method to get a random 5-letter word.
 - **Wordle**: Implements the game logic, interaction, and feedback.
+
+## Warning
+
+For academic honesty, do not replicate or use this code for coursework or assessments.
